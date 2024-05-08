@@ -2,6 +2,8 @@
 
 현재 구글 스토어 베타 테스트 중, 출시 완료 되면 소스 업로드 할 예정
 
+https://play.google.com/store/apps/details?id=com.aidevu.lotto
+
 <img width="363" alt="image" src="https://github.com/xenoager/Simple-Lotto/assets/8413641/8c283d51-e514-40f8-8c97-d5de3324a518">
 <img width="363" alt="image" src="https://github.com/xenoager/Simple-Lotto/assets/8413641/ef438c43-d14d-4342-af7b-c5ab44f8dfa2">
 <img width="363" alt="image" src="https://github.com/xenoager/Simple-Lotto/assets/8413641/2b47390b-8a3b-4680-a7e2-2b195b287a41">
