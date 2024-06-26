@@ -1,6 +1,7 @@
 # Simple Lotto app
 
 현재 구글 스토어 베타 테스트 중, 출시 완료 되면 소스 업로드 할 예정
+소스가 너무 개판이여서 리팩토링 이전에는 못올림꺼 같음..
 
 https://play.google.com/store/apps/details?id=com.aidevu.lotto
 
